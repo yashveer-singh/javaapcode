@@ -5940,3 +5940,12 @@ java.util.concurrent.TimeoutException
 
 !ENTRY org.eclipse.jst.server.tomcat.core 4 0 2024-04-18 10:46:17.750
 !MESSAGE Port 8080 required by Tomcat v10.1 Server at localhost is already in use. The server may already be running in another process, or a system process may be using the port. To start this server you will need to stop the other process or change the port number(s).
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-04-21 11:00:31.809
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-04-21 11:00:31.817
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.jst.server.tomcat.core 4 0 2024-04-21 11:01:26.361
+!MESSAGE Port 8080 required by Tomcat v10.1 Server at localhost is already in use. The server may already be running in another process, or a system process may be using the port. To start this server you will need to stop the other process or change the port number(s).
